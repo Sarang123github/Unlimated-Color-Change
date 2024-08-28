@@ -75,11 +75,3 @@ clearInterval(setIntervId);
     body.style.background=setIntervId.colors;
 
 })
-// setInterval(function(){
-
-// for(let i=0;i>color.length;i++){
-//     body.style.backgroundColor= 'color';
-
-// }
-
-// },1000)
